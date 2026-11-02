@@ -1,0 +1,8 @@
+{
+  "name": "bikini-bottom-rust",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SpongeBob quickscope free-for-all",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
